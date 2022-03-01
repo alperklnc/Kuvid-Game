@@ -1,3 +1,12 @@
+# Koc University COMP 302: Software Engineering course project.
+
+Project Group:
+Alper Kılınç
+Oğuzhan Taş
+Metehan Gelgi
+Fadime Tokmak
+Görkem Doğdu
+
 Game Control Keys:(check Options->Controls in Game to get more info)
 
 * Shoter Move-> A,D (left-right arrows)
